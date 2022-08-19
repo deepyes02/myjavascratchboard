@@ -7,11 +7,14 @@ public class Standardinput{
 		try (Scanner scan = new Scanner(System.in)) {
 			Integer a = scan.nextInt();
 			Integer b = scan.nextInt();
-			String c = scan.next();
+			scan.nextLine();
+			String c = scan.nextLine();
 
 			System.out.println(a);
 			System.out.println(b);
 			System.out.println(c);
+			System.out.println("End of code");
+			scan.close();
 		}
 
 	}

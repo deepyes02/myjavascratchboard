@@ -1,5 +1,8 @@
 {
 	"java.project.sourcePaths": [
-		"stdinout2"
+		"AUTH",
+		"Loops",
+		"Standardinput",
+		"LoopsII"
 	]
 }

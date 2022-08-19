@@ -13,7 +13,5 @@ public class Solution {
 			System.out.println("Double: "+xx);
 			System.out.println("Integer: "+x);
 		}
-
-		System.out.println("End of code");
 	}
 }
